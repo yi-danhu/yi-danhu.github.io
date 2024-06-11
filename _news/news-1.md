@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: ""
+excerpt: "RA Positions Available! I am looking for highly self-motivated Ph.D. students to conduct research on wireless network security, data privacy, and AI security. If you are interested, please see here for detailed information."
 collection: news
 ---
 
