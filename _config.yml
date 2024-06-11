@@ -212,7 +212,7 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
-  about me:
+  about:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -276,10 +276,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _about me
+  # _about
   - scope:
       path: ""
-      type: about me
+      type: about
     values:
       layout: single
       author_profile: true
