@@ -209,10 +209,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  news:
+  about:
     output: true
     permalink: /:collection/:path/
-  about:
+  awards:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -267,10 +267,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _news
+  # _awards
   - scope:
       path: ""
-      type: news
+      type: awards
     values:
       layout: single
       author_profile: true
