@@ -213,7 +213,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   awards:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
@@ -273,9 +273,9 @@ defaults:
       type: awards
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _about
   - scope:
       path: ""
