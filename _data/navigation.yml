@@ -7,7 +7,7 @@ main:
     url: /awards/
 
   - title: "SERVICE"
-    url: /SERVICE/
+    url: /service/
 
   - title: "TEACHING"
     url: /teaching/
