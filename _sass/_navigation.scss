@@ -185,7 +185,7 @@
     text-decoration: none;
 
     &:hover {
-      color: #FF0000 !important;
+      color:  $masthead-link-color-hover;
     }
   }
 
@@ -268,7 +268,7 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
+        color: #E87511 !important;
         background: mix(#fff, $primary-color, 75%);
       }
     }
