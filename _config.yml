@@ -213,7 +213,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   awards:
-    output: false
+    output: true
+    permalink: /:collection/:path/
+  service:
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -271,6 +274,15 @@ defaults:
   - scope:
       path: ""
       type: awards
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comment: false
+# _service
+  - scope:
+      path: ""
+      type: service
     values:
       layout: single
       author_profile: false
