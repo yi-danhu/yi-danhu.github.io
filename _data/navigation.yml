@@ -3,9 +3,6 @@ main:
   - title: "NEWS"
     url: /news/
     
-  - title: "ABOUT"
-    url: /about/
-
   - title: "PUBLICATIONS"
     url: /publications/
 
@@ -15,3 +12,8 @@ main:
   - title: "SERVICE"
     url: /SERVICE/
 
+  - title: "TEACHING"
+    url: /teach/
+
+  - title: "STUDENTs"
+    url: /students/
