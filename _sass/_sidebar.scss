@@ -132,12 +132,6 @@
   display: none;
   @media screen and (min-width: 1024px) {
     display: block;
-    li {
-          float:left; 
-          list-style:none;
-          display:block;
-          white-space: nowrap;
-       }
   }
 }
 
@@ -246,6 +240,9 @@
   }
 
   li {
+    float:left; 
+    list-style:none;
+    display:block;
     white-space: nowrap;
   }
 
