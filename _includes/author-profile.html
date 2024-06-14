@@ -28,10 +28,13 @@
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        <li><a href="{{ author.employer }}"><i class="fa fa-solid fa-building-columns icon-pad-right"></i>Rochester Institute of Technology</a></li>
       {% endif %}
       {% if author.college %}
         <li><a href="{{ author.college }}"><i class="fa-solid fa-building icon-pad-right"></i>Golisano College of Computing and Information Sciences</a></li>
+      {% endif %}
+      {% if author.office %}
+        <li class="author__desktop"><i class="fa-solid fa-briefcase icon-pad-right" aria-hidden="true"></i>{{ author.office }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
