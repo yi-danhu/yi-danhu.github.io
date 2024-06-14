@@ -185,7 +185,7 @@
     text-decoration: none;
 
     &:hover {
-      color:  #E87511;
+      color:  $custom-link-color-hover;
     }
   }
 
@@ -234,7 +234,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: #E87511;
+        background: $custom-link-color-hover;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
