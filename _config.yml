@@ -26,8 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor" 
   location         : "Rochester, NY 14623"
-  employer         : "Rochester Institute of Technology"
+  employer         : "https://www.rit.edu/"
   college          : "https://www.rit.edu/computing/"
+  office           : "office:GOL-3707"
   uri              : # URL
   email            : "yidan.hu@rit.edu" 
 
