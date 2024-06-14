@@ -27,7 +27,7 @@ author:
   bio              : "Assistant Professor" 
   location         : "Rochester, NY 14623"
   employer         : "Rochester Institute of Technology"
-  college          : "Golisano College of Computing and Information Sciences"
+  college          : "https://www.rit.edu/computing/"
   uri              : # URL
   email            : "yidan.hu@rit.edu" 
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
