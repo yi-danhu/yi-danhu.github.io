@@ -31,7 +31,7 @@
         <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
       {% if author.college %}
-        <li class="author__desktop"><i class="fa-solid fa-building icon-pad-right" aria-hidden="true"></i>{{ author.college }}</li>
+        <li><a href="{{ author.college }}"><i class="fa-solid fa-building icon-pad-right"></i>Golisano College of Computing and Information Sciences</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
