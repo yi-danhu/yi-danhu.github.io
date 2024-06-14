@@ -161,9 +161,13 @@ hr {
 }
 
 /* lists */
+ul {
+  display: block;
+}
 
 ul li,
 ol li {
+  white-space: nowrap;
   margin-bottom: 0.5em;
 }
 
