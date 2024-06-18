@@ -2,7 +2,7 @@
 title: "Location Inference under Temporal Correlation"
 collection: publications
 permalink: /publication/2023Sep01-paper
-excerpt: "Yukun Dong, Yidan Hu, Aisha Aseeri, Depeng Li, and Rui Zhang, IEEE International Conference on Computer Communications and Networks (ICCCN), Honolulu, HI, July 2023."
+excerpt: "Yukun Dong, **Yidan Hu**, Aisha Aseeri, Depeng Li, and Rui Zhang, IEEE International Conference on Computer Communications and Networks (ICCCN), Honolulu, HI, July 2023."
 date: 2023-09-01
 venue: 'IEEE International Conference on Computer Communications and Networks (ICCCN)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
