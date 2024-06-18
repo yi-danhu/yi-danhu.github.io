@@ -2,7 +2,7 @@
 title: "Authenticating Outsourced Location-Based Skyline Queries under Shortest Path Distance"
 collection: publications
 permalink: /publication/2023Oct27-paper
-excerpt: "**Yidan Hu**, Yukun Dong, Wenxin Chen, Yingfei Dong, and Rui Zhang. (2023).Orlando, FL, USA, Oct. 2023(<mark>Best Paper Award<mark>)."
+excerpt: "**Yidan Hu**, Yukun Dong, Wenxin Chen, Yingfei Dong, and Rui Zhang. (2023).Orlando, FL, USA, Oct. 2023(<font color=red>Best Paper Award</font>)."
 date: 2023-10-27
 venue: 'IEEE Conference on Communications and Network Security (CNS)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
