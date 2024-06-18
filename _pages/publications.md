@@ -15,15 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
----
-layout: archive
-title: "Publications-Journal Articles"
-permalink: /publications/
-author_profile: true
----
+
+**Journal Articles**
+
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publications.Journal reversed %}
   {% include archive-single.html %}
 {% endfor %}
